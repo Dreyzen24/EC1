@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppFerreJefferson</string>
+    <string name="valtext">ESTACIONAMIENTO</string>
+    <string name="valtiempo">INGRESA HORAS</string>
+    <string name="valbtncalc">CALCULAR</string>
+    <string name="valPrecio">1500 por hora</string>
+    <string name="valmin">INGRESAR MINUTOS</string>
+    <string name="valminut">INGRESAR MINUTOS</string>
+    <string name="valfecha">INGRESE AÑO DE NACIMIENTO</string>
+    <string name="valverificar">VERIFICAR</string>
+    <string name="valdni">DNI</string>
+</resources>
